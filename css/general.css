@@ -15,6 +15,7 @@ Defualt:1
 medium: 1.2
 Small: 1.05
 paragraph defualt: 1.6
+Large: 1.8
 
 
 -LETTER SPACING: 
@@ -240,6 +241,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1.6rem;
+  line-height: 1.2;
 }
 
 *:focus {
